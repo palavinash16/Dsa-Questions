@@ -2,7 +2,7 @@ class Solution {
 public:
 bool checkPalindrome(string &s, int left, int right) {
     
-    // Base condition
+    
     if(left >= right)
         return true;
 
